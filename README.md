@@ -10,16 +10,16 @@
 mupashirbare/mupashirbare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cabduali.cabduali" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mupashirbare.mupashirbare" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullahi+Dirie;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mupashir+Bashiir+Hirse;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Somalia 🌍</h3> 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cabduali&width=400" alt="cabduali" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mupashirbare&width=400" alt="mupashirbare" />
   </a> 
 </p>
 
@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on MERN stack projects<br>
     🌱 I’m currently learning machine learning algorithms<br><br>
-    💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/cabduali/cabduali/issues)**<br><br>
-    ⚡ Fun Fact: The first programming language, Fortran, was developed in the 1950s and is still used today for scientific and engineering calculations!
+    💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/mupashirbare/issues)**<br><br>
 
 <div align="center"> 
   <a href="mailto:cabduali@example.com">
@@ -170,9 +169,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabduali&show_icons=true&locale=en&layout=compact" alt="cabduali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mupashirbare&show_icons=true&locale=en&layout=compact" alt="mupashirbare" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabduali&show_icons=true&locale=en" alt="cabduali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mupashirbare&show_icons=true&locale=en" alt="mupashirbare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabduali&" alt="cabduali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mupashirbare&" alt="mupashirbare" /></p>
 
