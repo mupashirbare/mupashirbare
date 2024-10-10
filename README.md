@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new programming languages and frameworks in my free time. I'm always eager to learn and stay up-to-date with the latest trends in the tech industry.
+-   💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/mupashirbare/issues)**<br><br>
 
 <!---
 mupashirbare/mupashirbare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,19 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🔭 I’m currently working on MERN stack projects<br>
-    🌱 I’m currently learning machine learning algorithms<br><br>
-    💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/mupashirbare/issues)**<br><br>
 
 <div align="center"> 
-  <a href="mailto:cabduali@example.com">
+  <a href="mailto:mubashirbarre12@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/cabduali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://personal-portfolio-3feq2180w-cabdualis-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
 
