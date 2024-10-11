@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:advanced MERN stack
 - 💞️ I’m looking to collaborate on:projects that involve building web applications, data-driven solutions, or exploring new technologies. I'm open to working with individuals or teams who share my passion for creating impactful software.
 - - 📫 How to reach me:
-<div align="center"> 
+<div align="start"> 
   <a href="mailto:mubashirbarre12@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
