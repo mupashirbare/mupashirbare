@@ -9,7 +9,15 @@ He/Him
 I enjoy exploring new programming languages and frameworks. I'm always eager to learn and stay up-to-date with the latest trends in the tech industry.
 💬 Ask me about:
 JavaScript, Python, React, or anything here
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mupashirbare&theme=darkhub&row=1&column=6&no-bg=true&no-frame=true" alt="Trophy Showcase" /> </a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=mupashirbare&theme=darkhub&row=1&column=6&no-bg=true&no-frame=true" 
+      alt="Trophy Showcase"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
+</div>
 📈 GitHub Stats:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mupashirbare&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mupashirbare&theme=react&hide_border=true" width="48%" /> </div>
 
