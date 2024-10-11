@@ -7,7 +7,8 @@
 He/Him
 ⚡ Fun Fact:
 I enjoy exploring new programming languages and frameworks. I'm always eager to learn and stay up-to-date with the latest trends in the tech industry.
--   💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/mupashirbare/issues)**<br><br>
+💬 Ask me about:
+JavaScript, Python, React, or anything here
 
 <!---
 mupashirbare/mupashirbare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
