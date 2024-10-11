@@ -11,6 +11,9 @@
   <a href="https://www.facebook.com/[your-profile](https://www.facebook.com/mubashir.bashir.716195)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook" />
   </a>
+   <a href="https://wa.me/your-number" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp" />
+  </a>
 </div>
 
 - 😄 Pronouns: He/Him
