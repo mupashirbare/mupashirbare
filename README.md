@@ -9,6 +9,7 @@ He/Him
 I enjoy exploring new programming languages and frameworks. I'm always eager to learn and stay up-to-date with the latest trends in the tech industry.
 💬 Ask me about:
 JavaScript, Python, React, or anything here
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mupashirbare&theme=darkhub&row=1&column=6&no-bg=true&no-frame=true" alt="Trophy Showcase" /> </a> </p>
 
 <!---
 mupashirbare/mupashirbare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
