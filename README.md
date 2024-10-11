@@ -1,6 +1,7 @@
-<h1 align="center" style="background-color: #004D40; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=550&height=80&duration=3000&color=FFFFFF&lines=Hello,+I'm+Mupashir+Bashiir+Hirse!+👋;" alt="Hello I'm Mupashir Bashiir Hirse!" />
+<h1 align="center" style="color: #FFFFFF; background-color: #004D40; padding: 20px; border-radius: 10px; font-family: 'Righteous', sans-serif;">
+  Hello, I'm Mupashir Bashiir Hirse! 👋
 </h1>
+
 <h3 align="center">A Passionate Software Developer from Somalia 🌍</h3>
 
 <!-- Visitor Badge -->
