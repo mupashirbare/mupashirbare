@@ -3,11 +3,16 @@
 - 🌱 I’m currently learning:advanced MERN stack
 - 💞️ I’m looking to collaborate on:projects that involve building web applications, data-driven solutions, or exploring new technologies. I'm open to working with individuals or teams who share my passion for creating impactful software.
 - - 📫 How to reach me:
-<div align="start" panding-left="10px"> 
+📫 How to reach me:
+<div align="start" style="padding-left: 10px;"> 
   <a href="mailto:mubashirbarre12@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/[your-profile](https://www.facebook.com/mubashir.bashir.716195)" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook" />
   </a>
 </div>
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new programming languages and frameworks in my free time. I'm always eager to learn and stay up-to-date with the latest trends in the tech industry.
 -   💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/mupashirbare/issues)**<br><br>
