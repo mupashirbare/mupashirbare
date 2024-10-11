@@ -2,6 +2,12 @@
 - 👀 I’m interested in: becoming a full-stack web developer with a focus on MERN stack technologies and data analysis. I'm passionate about building innovative and user-friendly applications.
 - 🌱 I’m currently learning:advanced MERN stack
 - 💞️ I’m looking to collaborate on:projects that involve building web applications, data-driven solutions, or exploring new technologies. I'm open to working with individuals or teams who share my passion for creating impactful software.
+- - 📫 How to reach me:
+<div align="center"> 
+  <a href="mailto:mubashirbarre12@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new programming languages and frameworks in my free time. I'm always eager to learn and stay up-to-date with the latest trends in the tech industry.
 -   💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/mupashirbare/issues)**<br><br>
