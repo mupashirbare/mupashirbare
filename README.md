@@ -27,12 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 📫 How to reach me:
-<div align="center"> 
-  <a href="mailto:mubashirbarre12@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
+
 
 <hr/>
 
