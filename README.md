@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Mupashir+Bashiir+Hirse!+👋;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Mupashir+Bashiir+Hirse!+👋;" />
 </h1>
 <h3 align="center">A Passionate Software Developer from Somalia 🌍</h3>
 
@@ -72,8 +72,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mupashirbare&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mupashirbare&theme=react&hide_border=true" width="48%" />
 </div>
-
-<!-- GitHub Issues -->
-📂 **Current Projects & Issues**:  
-- [React To-Do List App](https://github.com/mupashirbare/react-todo/issues)  
-- [Simple Blog Project](https://github.com/mupashirbare/simple-blog/issues)  
