@@ -69,9 +69,8 @@
 
 <!-- GitHub Stats -->
 📈 **GitHub Stats**:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mupashirbare&show_icons=true&locale=en&layout=compact" alt="mupashirbare" /></p>
-
 <div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mupashirbare&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mupashirbare" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=mupashirbare&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mupashirbare&theme=react&hide_border=true" width="48%" />
 </div>
