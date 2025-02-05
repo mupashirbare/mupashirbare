@@ -7,7 +7,7 @@
 <!-- Visitor Badge -->
 <p align="center">
   <a href="https://github.com/mupashirbare">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mupashirbare.mupashirbare" alt="Visitors Badge" />
+    <img src="https://komarev.com/ghpvc/?username=mupashirbare&label=Profile+Views&color=brightgreen&style=flat" alt="Visitors Badge" />
   </a>
 </p>
 
@@ -17,17 +17,30 @@
 <!-- Tech Stack -->
 🛠️ **Tech Stack**:
 <p align="left">
-  <!-- Add more languages and tools here -->
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge" />
+  
+  <!-- Frontend & Backend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=green&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+
+  <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
 <!-- What I'm Currently Learning -->
@@ -39,7 +52,7 @@
 
 <!-- How to reach me -->
 📫 **How to reach me**:
-<div align="left" style="padding-left: 10px;">
+<div align="left">
   <a href="mailto:mubashirbarre12@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
@@ -70,7 +83,7 @@
 <!-- GitHub Stats -->
 📈 **GitHub Stats**:
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mupashirbare&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mupashirbare" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mupashirbare&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=mupashirbare&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mupashirbare&theme=react&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mupashirbare&theme=react&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
 </div>
