@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge" />
+
   
   <!-- Frontend & Backend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -39,14 +37,12 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 
   <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
 <!-- What I'm Currently Learning -->
 💡 **Currently Learning**:
 <p align="left">
-  <img src="https://img.shields.io/badge/-Mobile+App+Development-333333?style=for-the-badge&logo=android&logoColor=green" />
   <img src="https://img.shields.io/badge/-MERN+Stack-333333?style=for-the-badge&logo=mongodb&logoColor=green" />
 </p>
 
